@@ -10,7 +10,7 @@ The Greeting sample app by Mark Ng. It includes 2 versions of the Greeting app
 
 #### Run in IDE (Intellij)
 
-right click on Application.kt - Ktor and Koin example
+right click on Application.kt
 
 ### Testing
 ```
